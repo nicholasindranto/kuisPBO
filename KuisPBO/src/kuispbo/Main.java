@@ -1,4 +1,4 @@
-package eksperimen1;
+package kuisPBO;
 
 import java.util.Scanner;
 

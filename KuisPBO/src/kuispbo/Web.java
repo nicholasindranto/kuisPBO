@@ -1,6 +1,6 @@
-package eksperimen1;
+package kuisPBO;
 
-public class Web extends inputData implements Penentuan {
+public class Web extends InputData implements Penentuan {
 
     public Web(String NIK, String nama, double nilaiTulis, double nilaiCoding, double nilaiWawancara) {
         super(NIK, nama, nilaiTulis, nilaiCoding, nilaiWawancara);

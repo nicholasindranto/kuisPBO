@@ -1,6 +1,6 @@
-package eksperimen1;
+package kuisPBO;
 
-public class Android extends inputData implements Penentuan{
+public class Android extends InputData implements Penentuan{
 
     public Android(String NIK, String nama, double nilaiTulis, double nilaiCoding, double nilaiWawancara) {
         super(NIK, nama, nilaiTulis, nilaiCoding, nilaiWawancara);

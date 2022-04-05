@@ -1,4 +1,4 @@
-package eksperimen1;
+package kuisPBO;
 
 public interface Penentuan{
     public double hitungNilaiTotal();
